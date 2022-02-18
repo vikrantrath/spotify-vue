@@ -1,0 +1,7 @@
+// Vitest Snapshot v1
+
+exports[`Loader > Matches the snapshot 1`] = `
+"<div class=\\"loader-container\\">
+  <div class=\\"loader\\"></div>
+</div>"
+`;

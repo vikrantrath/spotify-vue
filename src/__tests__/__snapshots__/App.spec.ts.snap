@@ -1,0 +1,9 @@
+// Vitest Snapshot v1
+
+exports[`App > Matches the snapshot 1`] = `
+"<nav-bar-stub></nav-bar-stub>
+<div class=\\"main-view\\">
+  <router-view-stub name=\\"default\\"></router-view-stub>
+</div>
+<player-bar-stub></player-bar-stub>"
+`;

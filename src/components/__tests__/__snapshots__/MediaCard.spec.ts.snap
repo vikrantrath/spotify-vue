@@ -1,0 +1,10 @@
+// Vitest Snapshot v1
+
+exports[`MediaCard > Matches the snapshot 1`] = `
+"<div class=\\"media-card\\"><img src=\\"mock-url\\" alt=\\"cover-art\\">
+  <div class=\\"play-icon\\">
+    <div class=\\"play-icon-circle\\"><span class=\\"material-icons\\">play_arrow</span></div>
+  </div>
+  <div class=\\"media-title\\">mock-title</div><span class=\\"media-subtitle\\">mock-subtitle</span>
+</div>"
+`;

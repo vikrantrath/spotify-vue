@@ -1,0 +1,7 @@
+// Vitest Snapshot v1
+
+exports[`DashBoard > Matches the snapshot 1`] = `
+"<div class=\\"home-view\\">
+  <loader-stub></loader-stub>
+</div>"
+`;
