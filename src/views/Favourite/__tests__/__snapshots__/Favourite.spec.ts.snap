@@ -1,0 +1,3 @@
+// Vitest Snapshot v1
+
+exports[`Favourite > Matches the snapshot 1`] = `"<!--v-if-->"`;

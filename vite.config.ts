@@ -1,6 +1,6 @@
 import { fileURLToPath, URL } from 'url';
 
-import { defineConfig } from 'vite';
+import { defineConfig, mergeConfig } from 'vite';
 import vue from '@vitejs/plugin-vue';
 
 // https://vitejs.dev/config/
@@ -15,6 +15,12 @@ export default defineConfig({
   },
   test: {
     globals: true,
-    environment: "jsdom"
+    environment: "jsdom",
+    snapshotFormat: {
+      escapeString: false
+    },
+    coverage: {
+      clean: true
+    }
   }
 });

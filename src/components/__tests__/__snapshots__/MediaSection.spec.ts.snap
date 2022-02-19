@@ -1,14 +1,14 @@
 // Vitest Snapshot v1
 
 exports[`MediaSection > Matches the snapshot 1`] = `
-"<div class=\\"media-section\\">
-  <div class=\\"media-section-header\\">
-    <div class=\\"section-heading\\">mock-section-1</div>
+"<div class="media-section">
+  <div class="media-section-header">
+    <div class="section-heading">mock-section-1</div>
   </div>
-  <div class=\\"media-card-row\\">
-    <media-card-stub album=\\"[object Object]\\"></media-card-stub>
-    <media-card-stub album=\\"[object Object]\\"></media-card-stub>
-    <media-card-stub album=\\"[object Object]\\"></media-card-stub>
+  <div class="media-card-row">
+    <media-card-stub album="[object Object]"></media-card-stub>
+    <media-card-stub album="[object Object]"></media-card-stub>
+    <media-card-stub album="[object Object]"></media-card-stub>
   </div>
 </div>"
 `;

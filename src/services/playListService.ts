@@ -3,7 +3,7 @@ import { PlayList } from "@/@types";
 import SongList from '@/stores/songList.json';
 
 export const getAllPlayLists = async (): Promise<PlayList> => {
-    if (process.env.NODE_ENV === 'development') {
+    if (process.env.NODE_ENV !== 'production') {
         return new Promise((resolve, reject) => {
             setTimeout(() => resolve(SongList), Math.random() * 1000)
         });

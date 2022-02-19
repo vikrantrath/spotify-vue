@@ -3,7 +3,7 @@
         <div class="playlist-cover-section">
             <div class="playlist-cover">
                 <div class="back-icon">
-                    <span class="material-icons" @click="router.back()">reply_all</span>
+                    <span class="material-icons" @click="router.back()" data-testid="back-icon">reply_all</span>
                 </div>
                 <div class="playlist-cover-art">
                     <img :src="getLikedSongs?.[0]?.imageUri" />

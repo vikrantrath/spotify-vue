@@ -1,29 +1,29 @@
 // Vitest Snapshot v1
 
 exports[`PlayerBar > When a playlist is selected > Matches the snapshot 1`] = `
-"<div class=\\"player\\">
-  <div class=\\"now-playing-meta\\"><img alt=\\"now-playing-cover-art\\">
-    <div class=\\"now-playing-info\\"><span class=\\"now-playing-title\\">mockSong1</span><span class=\\"now-playing-artist\\">mockArtist1</span></div><span class=\\"material-icons unselected\\" data-testid=\\"favorite\\">favorite</span>
+"<div class="player">
+  <div class="now-playing-meta"><img alt="now-playing-cover-art">
+    <div class="now-playing-info"><span class="now-playing-title">mockSong1</span><span class="now-playing-artist">mockArtist1</span></div><span class="material-icons unselected" data-testid="favorite">favorite</span>
   </div>
-  <div class=\\"player-controls\\"><audio src=\\"mockUri1\\" preload=\\"metadata\\" hidden=\\"\\"></audio>
-    <div><span class=\\"material-icons playback-icon\\" data-testid=\\"prev\\">skip_previous</span><span class=\\"material-icons playback-icon\\" data-testid=\\"play\\">play_circle</span><span class=\\"material-icons playback-icon\\" data-testid=\\"next\\">skip_next</span></div><input type=\\"range\\" id=\\"seek-slider\\" class=\\"playback-slider\\" max=\\"NaN\\">
+  <div class="player-controls"><audio src="mockUri1" preload="metadata" hidden=""></audio>
+    <div><span class="material-icons playback-icon" data-testid="prev">skip_previous</span><span class="material-icons playback-icon" data-testid="play">play_circle</span><span class="material-icons playback-icon" data-testid="next">skip_next</span></div><input type="range" id="seek-slider" class="playback-slider" max="NaN">
   </div>
-  <div class=\\"now-playing-additional\\"><span class=\\"material-icons unselected\\">queue_music</span>
-    <div class=\\"player-volume\\"><span class=\\"material-icons unselected\\">volume_up</span><input type=\\"range\\" id=\\"volume-slider\\" max=\\"100\\"></div>
+  <div class="now-playing-additional"><span class="material-icons unselected">queue_music</span>
+    <div class="player-volume"><span class="material-icons unselected">volume_up</span><input type="range" id="volume-slider" max="100"></div>
   </div>
 </div>"
 `;
 
 exports[`PlayerBar > When no playlist is selected > Matches the snapshot 1`] = `
-"<div class=\\"player\\">
-  <div class=\\"now-playing-meta\\">
+"<div class="player">
+  <div class="now-playing-meta">
     <!--v-if-->
   </div>
-  <div class=\\"player-controls\\"><audio src=\\"#\\" preload=\\"metadata\\" hidden=\\"\\"></audio>
-    <div><span class=\\"material-icons playback-icon\\" data-testid=\\"prev\\">skip_previous</span><span class=\\"material-icons playback-icon\\" data-testid=\\"play\\">play_circle</span><span class=\\"material-icons playback-icon\\" data-testid=\\"next\\">skip_next</span></div><input type=\\"range\\" id=\\"seek-slider\\" class=\\"playback-slider\\" max=\\"NaN\\">
+  <div class="player-controls"><audio src="#" preload="metadata" hidden=""></audio>
+    <div><span class="material-icons playback-icon" data-testid="prev">skip_previous</span><span class="material-icons playback-icon" data-testid="play">play_circle</span><span class="material-icons playback-icon" data-testid="next">skip_next</span></div><input type="range" id="seek-slider" class="playback-slider" max="NaN">
   </div>
-  <div class=\\"now-playing-additional\\"><span class=\\"material-icons unselected\\">queue_music</span>
-    <div class=\\"player-volume\\"><span class=\\"material-icons unselected\\">volume_up</span><input type=\\"range\\" id=\\"volume-slider\\" max=\\"100\\"></div>
+  <div class="now-playing-additional"><span class="material-icons unselected">queue_music</span>
+    <div class="player-volume"><span class="material-icons unselected">volume_up</span><input type="range" id="volume-slider" max="100"></div>
   </div>
 </div>"
 `;

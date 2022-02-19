@@ -1,12 +1,12 @@
 // Vitest Snapshot v1
 
 exports[`NavBar > Matches the snapshot 1`] = `
-"<div class=\\"side-nav\\">
-  <div class=\\"logo\\"><img src=\\"/src/assets/logo.svg?import\\"><span>Spotify-Vue</span></div>
-  <ul class=\\"nav-links\\">
-    <router-link-stub to=\\"/\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
-    <router-link-stub to=\\"/\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
-    <router-link-stub to=\\"/favourite\\" replace=\\"false\\" custom=\\"false\\" ariacurrentvalue=\\"page\\"></router-link-stub>
+"<div class="side-nav">
+  <div class="logo"><img src="/src/assets/logo.svg?import"><span>Spotify-Vue</span></div>
+  <ul class="nav-links">
+    <router-link-stub to="/" replace="false" custom="false" ariacurrentvalue="page"></router-link-stub>
+    <router-link-stub to="/" replace="false" custom="false" ariacurrentvalue="page"></router-link-stub>
+    <router-link-stub to="/favourite" replace="false" custom="false" ariacurrentvalue="page"></router-link-stub>
   </ul>
 </div>"
 `;
