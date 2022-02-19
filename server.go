@@ -1,26 +1,24 @@
 package main
 
 import (
-	"fmt"
 	"log"
 	"net/http"
+	"spotify-vue/api"
 )
 
 func main() {
-	fmt.Printf("Starting server at port 8080\n")
-
 	fileServer := http.FileServer(http.Dir("./dist")) // New code
 	http.Handle("/", fileServer)
 
-	http.HandleFunc("/hello", helloHandler)
+	http.HandleFunc("/api/getAllPlaylists", apiHandler)
 
 	if err := http.ListenAndServe(":8080", nil); err != nil {
 		log.Fatal(err)
 	}
 }
 
-func helloHandler(w http.ResponseWriter, r *http.Request) {
-	if r.URL.Path != "/hello" {
+func apiHandler(w http.ResponseWriter, r *http.Request) {
+	if r.URL.Path != "/api/getAllPlaylists" {
 		http.Error(w, "404 not found.", http.StatusNotFound)
 		return
 	}
@@ -30,5 +28,5 @@ func helloHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	fmt.Fprintf(w, "Hello!")
+	api.ReturnAllArticles(w, r)
 }

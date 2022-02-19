@@ -1,0 +1,1982 @@
+[
+    {
+        "type": "album",
+        "_id": "0",
+        "name": "Album-0",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 0",
+        "imageUri": "images/image_0.jpg",
+        "tracks": [
+            {
+                "_id": "album_0song_0",
+                "name": "Lensko - Titsepoken 2015 [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 196.7804081632653,
+                "imageUri": "images/image_0.jpg",
+                "uri": "audio/Lensko_-_Titsepoken_2015_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_0song_1",
+                "name": "Hollywood",
+                "year": null,
+                "artist": "Ricky Hollywood",
+                "album": null,
+                "duration_s": 210.5469387755102,
+                "imageUri": "images/image_0.jpg",
+                "uri": "audio/Leowi_-_Hollywood_(feat._joegarratt)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_0song_2",
+                "name": "Remember",
+                "year": null,
+                "artist": "Front & Centre",
+                "album": null,
+                "duration_s": 188.55183673469386,
+                "imageUri": "images/image_0.jpg",
+                "uri": "audio/Levianth_&_Axol_-_Remember_(feat._The_Tech_Thieves)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_0song_3",
+                "name": "Echoes",
+                "year": null,
+                "artist": "???",
+                "album": null,
+                "duration_s": 274.5730612244898,
+                "imageUri": "images/image_0.jpg",
+                "uri": "audio/LFZ_-_Echoes_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_0song_4",
+                "name": "Light Years Away",
+                "year": null,
+                "artist": "Story of the Year",
+                "album": null,
+                "duration_s": 199.60163265306122,
+                "imageUri": "images/image_0.jpg",
+                "uri": "audio/Light_Years_Away_-_Melrose_At_Midnight_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_0song_5",
+                "name": "Lostboy & Slashtaq - Elysium [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 170.95943310657597,
+                "imageUri": "images/image_0.jpg",
+                "uri": "audio/Lostboy_&_Slashtaq_-_Elysium_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "1",
+        "name": "Album-1",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 1",
+        "imageUri": "images/image_1.jpg",
+        "tracks": [
+            {
+                "_id": "album_1song_0",
+                "name": "California",
+                "year": null,
+                "artist": "John Mayall & Friends",
+                "album": null,
+                "duration_s": 267.62448979591835,
+                "imageUri": "images/image_1.jpg",
+                "uri": "audio/Luke_Carpenter_&_John_Ross_-_California_(feat._Corey_Saxon)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_1song_1",
+                "name": "Reaktor",
+                "year": null,
+                "artist": "autoKratz",
+                "album": null,
+                "duration_s": 224.6269387755102,
+                "imageUri": "images/image_1.jpg",
+                "uri": "audio/Main_Reaktor_-_Alone_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_1song_2",
+                "name": "Arc Reaktor",
+                "year": null,
+                "artist": "Ramin Djawadi",
+                "album": null,
+                "duration_s": 198.47836734693877,
+                "imageUri": "images/image_1.jpg",
+                "uri": "audio/Main_Reaktor_-_Awakening_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_1song_3",
+                "name": "Recession",
+                "year": null,
+                "artist": "Disbelief",
+                "album": null,
+                "duration_s": 191.60816326530613,
+                "imageUri": "images/image_1.jpg",
+                "uri": "audio/Main_Reaktor_-_Recession_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_1song_4",
+                "name": "Main Reaktor - Salvation [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 186.61877551020407,
+                "imageUri": "images/image_1.jpg",
+                "uri": "audio/Main_Reaktor_-_Salvation_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_1song_5",
+                "name": "Malik Bash - Apollo [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 221.1004081632653,
+                "imageUri": "images/image_1.jpg",
+                "uri": "audio/Malik_Bash_-_Apollo_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "2",
+        "name": "Album-2",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 2",
+        "imageUri": "images/image_2.jpg",
+        "tracks": [
+            {
+                "_id": "album_2song_0",
+                "name": "Saved Me Now",
+                "year": null,
+                "artist": "Matthew Blake feat. Katie Boyle",
+                "album": null,
+                "duration_s": 305.6326530612245,
+                "imageUri": "images/image_2.jpg",
+                "uri": "audio/Matthew_Blake_feat._Katie_Boyle_-_Saved_Me_Now_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_2song_1",
+                "name": "Upside Down",
+                "year": null,
+                "artist": "Snoop Dogg feat. Nipsey Hussle",
+                "album": null,
+                "duration_s": 301.63591836734696,
+                "imageUri": "images/image_2.jpg",
+                "uri": "audio/Matthew_Blake_feat._Tyler_Fiore_-_Upside_Down_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_2song_2",
+                "name": "Elysium",
+                "year": null,
+                "artist": "Mendum",
+                "album": null,
+                "duration_s": 286.56326530612245,
+                "imageUri": "images/image_2.jpg",
+                "uri": "audio/Mendum_-_Elysium_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_2song_3",
+                "name": "One Third",
+                "year": null,
+                "artist": "Gene Hunt",
+                "album": null,
+                "duration_s": 244.63673469387754,
+                "imageUri": "images/image_2.jpg",
+                "uri": "audio/Mendum_-_One_Third_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_2song_4",
+                "name": "Hands",
+                "year": null,
+                "artist": "Rabbit in Red",
+                "album": null,
+                "duration_s": 260.545306122449,
+                "imageUri": "images/image_2.jpg",
+                "uri": "audio/Mendum_-_Red_Hands_(feat._Omri)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_2song_5",
+                "name": "Stay With Me",
+                "year": null,
+                "artist": "McFly",
+                "album": null,
+                "duration_s": 248.6334693877551,
+                "imageUri": "images/image_2.jpg",
+                "uri": "audio/Mendum_-_Stay_With_Me_(Krys_Talk_Remix)_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "3",
+        "name": "Album-3",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 3",
+        "imageUri": "images/image_3.jpg",
+        "tracks": [
+            {
+                "_id": "album_3song_0",
+                "name": "Stay With Me",
+                "year": null,
+                "artist": "McFly",
+                "album": null,
+                "duration_s": 168.59428571428572,
+                "imageUri": "images/image_3.jpg",
+                "uri": "audio/Mendum_-_Stay_With_Me_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_3song_1",
+                "name": "My Musical Friend",
+                "year": null,
+                "artist": "Adventure Time",
+                "album": null,
+                "duration_s": 226.63836734693876,
+                "imageUri": "images/image_3.jpg",
+                "uri": "audio/Music_Predators_-_Adventure_Time_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_3song_2",
+                "name": "Let Me See You (part of a \u0093The Best of Trance 2004\u0094 DJ-mix)",
+                "year": null,
+                "artist": "Asino",
+                "album": null,
+                "duration_s": 160.57469387755103,
+                "imageUri": "images/image_3.jpg",
+                "uri": "audio/NAIMA_-_Let_Me_See_You_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_3song_3",
+                "name": "NCS is live! NCS x Twitchcon.   RIOTedm - Launchpad",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 28.525714285714287,
+                "imageUri": "images/image_3.jpg",
+                "uri": "audio/NCS_is_live!_NCS_x_Twitchcon.___RIOTedm_-_Launchpad.ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_3song_4",
+                "name": "NCS is Love, NCS is Life [Album Mix]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 961.5673469387755,
+                "imageUri": "images/image_3.jpg",
+                "uri": "audio/NCS_is_Love,_NCS_is_Life_[Album_Mix].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_3song_5",
+                "name": "NCS  Infinity [Album Mix]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 764.6302040816327,
+                "imageUri": "images/image_3.jpg",
+                "uri": "audio/NCS__Infinity_[Album_Mix].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "4",
+        "name": "Album-4",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 4",
+        "imageUri": "images/image_4.jpg",
+        "tracks": [
+            {
+                "_id": "album_4song_0",
+                "name": "NCS  The Best of 2015 [Album Mix]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 980.1142857142858,
+                "imageUri": "images/image_4.jpg",
+                "uri": "audio/NCS__The_Best_of_2015_[Album_Mix].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_4song_1",
+                "name": "NCS  The Best of 2016 [Album Mix]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 1100.6171428571429,
+                "imageUri": "images/image_4.jpg",
+                "uri": "audio/NCS__The_Best_of_2016_[Album_Mix].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_4song_2",
+                "name": "NCS  Uplifting [Album Mix]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 670.6416326530613,
+                "imageUri": "images/image_4.jpg",
+                "uri": "audio/NCS__Uplifting_[Album_Mix].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_4song_3",
+                "name": "NCT x T & Sugah - Along The Road (feat. Voicians) [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 267.5722448979592,
+                "imageUri": "images/image_4.jpg",
+                "uri": "audio/NCT_x_T_&_Sugah_-_Along_The_Road_(feat._Voicians)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_4song_4",
+                "name": "Sapphire",
+                "year": null,
+                "artist": "Ayria",
+                "album": null,
+                "duration_s": 201.5869387755102,
+                "imageUri": "images/image_4.jpg",
+                "uri": "audio/NIVIRO_-_Sapphire_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_4song_5",
+                "name": "Ghost",
+                "year": null,
+                "artist": "The Nadas",
+                "album": null,
+                "duration_s": 204.72163265306122,
+                "imageUri": "images/image_4.jpg",
+                "uri": "audio/NIVIRO_-_The_Ghost_[NCS_Official_Video].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "5",
+        "name": "Album-5",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 5",
+        "imageUri": "images/image_5.jpg",
+        "tracks": [
+            {
+                "_id": "album_5song_0",
+                "name": "Ohedo (you remix)",
+                "year": null,
+                "artist": "you",
+                "album": null,
+                "duration_s": 229.9700453514739,
+                "imageUri": "images/image_5.jpg",
+                "uri": "audio/NIVIRO_-_You_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_5song_1",
+                "name": "Taking Over",
+                "year": null,
+                "artist": "Exploder",
+                "album": null,
+                "duration_s": 291.65714285714284,
+                "imageUri": "images/image_5.jpg",
+                "uri": "audio/OLWIK_-_Taking_Over_(feat._Alexa_Lusader)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_5song_2",
+                "name": "This Life",
+                "year": null,
+                "artist": "OLWIK feat. Johnning",
+                "album": null,
+                "duration_s": 225.61959183673468,
+                "imageUri": "images/image_5.jpg",
+                "uri": "audio/OLWIK_-_This_Life_(feat._Johnning)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_5song_3",
+                "name": "Villain",
+                "year": null,
+                "artist": "OLWIK feat. Tyler Fiore",
+                "album": null,
+                "duration_s": 215.58857142857144,
+                "imageUri": "images/image_5.jpg",
+                "uri": "audio/OLWIK_-_Villain_(feat._Tyler_Fiore)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_5song_4",
+                "name": "Stronger",
+                "year": null,
+                "artist": "Omar Varela & Xavi & Gi feat. Miss Lina",
+                "album": null,
+                "duration_s": 204.5387755102041,
+                "imageUri": "images/image_5.jpg",
+                "uri": "audio/Omar_Varela,_Xavi_&_Gi_-_Stronger_(feat._Miss_Lina)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_5song_5",
+                "name": "Savage",
+                "year": null,
+                "artist": "Paul Flint",
+                "album": null,
+                "duration_s": 212.55836734693878,
+                "imageUri": "images/image_5.jpg",
+                "uri": "audio/Paul_Flint_-_Savage_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "6",
+        "name": "Album-6",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 6",
+        "imageUri": "images/image_6.jpg",
+        "tracks": [
+            {
+                "_id": "album_6song_0",
+                "name": "Sock It to Me",
+                "year": null,
+                "artist": "The Deacons",
+                "album": null,
+                "duration_s": 188.55183673469386,
+                "imageUri": "images/image_6.jpg",
+                "uri": "audio/Paul_Flint_-_Sock_It_To_Them_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_6song_1",
+                "name": "Sailing Away",
+                "year": null,
+                "artist": "Phantom",
+                "album": null,
+                "duration_s": 271.56897959183675,
+                "imageUri": "images/image_6.jpg",
+                "uri": "audio/Phantom_Sage_-_Away_(feat._Byndy)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_6song_2",
+                "name": "Crystal Clouds",
+                "year": null,
+                "artist": "Phantom Sage",
+                "album": null,
+                "duration_s": 258.56,
+                "imageUri": "images/image_6.jpg",
+                "uri": "audio/Phantom_Sage_-_Crystal_Clouds_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_6song_3",
+                "name": "Phantom Sage - Hollow [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 217.57387755102042,
+                "imageUri": "images/image_6.jpg",
+                "uri": "audio/Phantom_Sage_-_Hollow_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_6song_4",
+                "name": "Phantom Sage - Kingdom (feat. Miss Lina) [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 278.9496371882086,
+                "imageUri": "images/image_6.jpg",
+                "uri": "audio/Phantom_Sage_-_Kingdom_(feat._Miss_Lina)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_6song_5",
+                "name": "Phantom Sage - MIKO [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 305.5542857142857,
+                "imageUri": "images/image_6.jpg",
+                "uri": "audio/Phantom_Sage_-_MIKO_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "7",
+        "name": "Album-7",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 7",
+        "imageUri": "images/image_7.jpg",
+        "tracks": [
+            {
+                "_id": "album_7song_0",
+                "name": "Phantom Sage - Our Lives Past (feat. Emily Stiles) [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 294.9626984126984,
+                "imageUri": "images/image_7.jpg",
+                "uri": "audio/Phantom_Sage_-_Our_Lives_Past_(feat._Emily_Stiles)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_7song_1",
+                "name": "Silence",
+                "year": null,
+                "artist": "Phantomass",
+                "album": null,
+                "duration_s": 280.58122448979594,
+                "imageUri": "images/image_7.jpg",
+                "uri": "audio/Phantom_Sage_-_Silence_(feat._Byndy)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_7song_2",
+                "name": "Phantom Sage - The Light [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 271.5951020408163,
+                "imageUri": "images/image_7.jpg",
+                "uri": "audio/Phantom_Sage_-_The_Light_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_7song_3",
+                "name": "Prismo",
+                "year": null,
+                "artist": "Infekt",
+                "album": null,
+                "duration_s": 204.108820861678,
+                "imageUri": "images/image_7.jpg",
+                "uri": "audio/Prismo_-_Hold_On_[NCS_Official_Video].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_7song_4",
+                "name": "Weakness",
+                "year": null,
+                "artist": "Soliss",
+                "album": null,
+                "duration_s": 198.55673469387756,
+                "imageUri": "images/image_7.jpg",
+                "uri": "audio/Prismo_-_Weakness_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_7song_5",
+                "name": "Me Beside You",
+                "year": null,
+                "artist": "Travis",
+                "album": null,
+                "duration_s": 294.55673469387756,
+                "imageUri": "images/image_7.jpg",
+                "uri": "audio/Rameses_B_-_Beside_You_(feat._Soundr)_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "8",
+        "name": "Album-8",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 8",
+        "imageUri": "images/image_8.jpg",
+        "tracks": [
+            {
+                "_id": "album_8song_0",
+                "name": "Electron",
+                "year": null,
+                "artist": "Saloon",
+                "album": null,
+                "duration_s": 269.7142857142857,
+                "imageUri": "images/image_8.jpg",
+                "uri": "audio/Ramzoid_-_Electron_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_8song_1",
+                "name": "Let's Get This Party Started",
+                "year": null,
+                "artist": "DJ KJ & MC Kooley C.",
+                "album": null,
+                "duration_s": 158.94310657596372,
+                "imageUri": "images/image_8.jpg",
+                "uri": "audio/Raven_&_Kreyn_-_Get_This_Party_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_8song_2",
+                "name": "Raven & Kreyn - In The Air [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 157.64897959183673,
+                "imageUri": "images/image_8.jpg",
+                "uri": "audio/Raven_&_Kreyn_-_In_The_Air_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_8song_3",
+                "name": "So Happy",
+                "year": null,
+                "artist": "Papermoon",
+                "album": null,
+                "duration_s": 160.17086167800454,
+                "imageUri": "images/image_8.jpg",
+                "uri": "audio/Raven_&_Kreyn_-_So_Happy_[NCS_Official_Video].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_8song_4",
+                "name": "Love U",
+                "year": null,
+                "artist": "Razihel",
+                "album": null,
+                "duration_s": 263.54938775510203,
+                "imageUri": "images/image_8.jpg",
+                "uri": "audio/Razihel_-_Love_U_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_8song_5",
+                "name": "Heavyweight",
+                "year": null,
+                "artist": "Lesego Rampolokeng & Kalahari Surfers",
+                "album": null,
+                "duration_s": 195.63102040816327,
+                "imageUri": "images/image_8.jpg",
+                "uri": "audio/RedMoon_&_Meron_Ryan_-_Heavyweight_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "9",
+        "name": "Album-9",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 9",
+        "imageUri": "images/image_9.jpg",
+        "tracks": [
+            {
+                "_id": "album_9song_0",
+                "name": "Only Us",
+                "year": null,
+                "artist": "Redmoon feat. Jonny Rose",
+                "album": null,
+                "duration_s": 265.09061224489795,
+                "imageUri": "images/image_9.jpg",
+                "uri": "audio/RedMoon_feat._Jonny_Rose_-_Only_Us_[NCS_Uplifting_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_9song_1",
+                "name": "Retrovision",
+                "year": null,
+                "artist": "Magma",
+                "album": null,
+                "duration_s": 185.57387755102042,
+                "imageUri": "images/image_9.jpg",
+                "uri": "audio/RetroVision_-_Heroes_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_9song_2",
+                "name": "Retrovision",
+                "year": null,
+                "artist": "Quantica",
+                "album": null,
+                "duration_s": 162.6122448979592,
+                "imageUri": "images/image_9.jpg",
+                "uri": "audio/RetroVision_-_Over_Again_(feat._Micah_Martin)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_9song_3",
+                "name": "Puzzle",
+                "year": null,
+                "artist": "Retrovision",
+                "album": null,
+                "duration_s": 170.5795918367347,
+                "imageUri": "images/image_9.jpg",
+                "uri": "audio/RetroVision_-_Puzzle_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_9song_4",
+                "name": "RIVERO & Anna Yvette - Heaven [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 190.58938775510205,
+                "imageUri": "images/image_9.jpg",
+                "uri": "audio/RIVERO_&_Anna_Yvette_-_Heaven_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_9song_5",
+                "name": "Robert Chacon - Redshift (feat. Robertha Sepulveda) [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 260.62367346938777,
+                "imageUri": "images/image_9.jpg",
+                "uri": "audio/Robert_Chacon_-_Redshift_(feat._Robertha_Sepulveda)_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "10",
+        "name": "Album-10",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 10",
+        "imageUri": "images/image_10.jpg",
+        "tracks": [
+            {
+                "_id": "album_10song_0",
+                "name": "Rob Gasser & Laura Brehm - Vertigo [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 206.55020408163264,
+                "imageUri": "images/image_10.jpg",
+                "uri": "audio/Rob_Gasser_&_Laura_Brehm_-_Vertigo_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_10song_1",
+                "name": "Get Mad",
+                "year": null,
+                "artist": "Rob Gasser",
+                "album": null,
+                "duration_s": 222.56326530612245,
+                "imageUri": "images/image_10.jpg",
+                "uri": "audio/Rob_Gasser_-_Ricochet_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_10song_2",
+                "name": "Supersonic",
+                "year": null,
+                "artist": "J.J. Fad",
+                "album": null,
+                "duration_s": 228.54530612244898,
+                "imageUri": "images/image_10.jpg",
+                "uri": "audio/Rob_Gasser_-_Supersonic_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_10song_3",
+                "name": "No Doubt",
+                "year": null,
+                "artist": "Shut Up & Dance",
+                "album": null,
+                "duration_s": 191.9618820861678,
+                "imageUri": "images/image_10.jpg",
+                "uri": "audio/Rogers_&_Dean_-_No_Doubt_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_10song_4",
+                "name": "Sekai",
+                "year": null,
+                "artist": "Submerse",
+                "album": null,
+                "duration_s": 245.60326530612244,
+                "imageUri": "images/image_10.jpg",
+                "uri": "audio/Sekai_-_Somebody_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_10song_5",
+                "name": "One Day",
+                "year": null,
+                "artist": "Phantom Sage & Sex Whales",
+                "album": null,
+                "duration_s": 278.6481632653061,
+                "imageUri": "images/image_10.jpg",
+                "uri": "audio/Sex_Whales_&_Phantom_Sage_-_One_Day_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "11",
+        "name": "Album-11",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 11",
+        "imageUri": "images/image_11.jpg",
+        "tracks": [
+            {
+                "_id": "album_11song_0",
+                "name": "Sex Whales & Roee Yeger - Where Was I (feat. Ashley Apollodor) [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 305.3191836734694,
+                "imageUri": "images/image_11.jpg",
+                "uri": "audio/Sex_Whales_&_Roee_Yeger_-_Where_Was_I_(feat._Ashley_Apollodor)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_11song_1",
+                "name": "Ship Wrek, Zookeepers & Trauzers - Vessel [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 204.59102040816327,
+                "imageUri": "images/image_11.jpg",
+                "uri": "audio/Ship_Wrek,_Zookeepers_&_Trauzers_-_Vessel_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_11song_2",
+                "name": "The Zookeeper\u0092s Boy",
+                "year": null,
+                "artist": "Mew",
+                "album": null,
+                "duration_s": 179.56571428571428,
+                "imageUri": "images/image_11.jpg",
+                "uri": "audio/Ship_Wrek_&_Zookeepers_-_Ark_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_11song_3",
+                "name": "Pain",
+                "year": null,
+                "artist": "Ship Wrek & Mia Vaile",
+                "album": null,
+                "duration_s": 211.56571428571428,
+                "imageUri": "images/image_11.jpg",
+                "uri": "audio/Ship_Wrek_-_Pain_(feat._Mia_Vaile)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_11song_4",
+                "name": "SirensCeol & Reaktion ft. The Eden Project - Let You Know [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 276.63673469387754,
+                "imageUri": "images/image_11.jpg",
+                "uri": "audio/SirensCeol_&_Reaktion_ft._The_Eden_Project_-_Let_You_Know_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_11song_5",
+                "name": "Coming Home",
+                "year": null,
+                "artist": "Iron Savior",
+                "album": null,
+                "duration_s": 283.6375510204082,
+                "imageUri": "images/image_11.jpg",
+                "uri": "audio/SirensCeol_-_Coming_Home_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "12",
+        "name": "Album-12",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 12",
+        "imageUri": "images/image_12.jpg",
+        "tracks": [
+            {
+                "_id": "album_12song_0",
+                "name": "Nostalgia",
+                "year": null,
+                "artist": "Wexxel & Sae",
+                "album": null,
+                "duration_s": 320.6530612244898,
+                "imageUri": "images/image_12.jpg",
+                "uri": "audio/SirensCeol_-_Nostalgia_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_12song_1",
+                "name": "Run Away",
+                "year": null,
+                "artist": "Yahel",
+                "album": null,
+                "duration_s": 255.55591836734695,
+                "imageUri": "images/image_12.jpg",
+                "uri": "audio/Siren_-_Run_Away_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_12song_2",
+                "name": "Wizard",
+                "year": null,
+                "artist": "Soulstice",
+                "album": null,
+                "duration_s": 181.60326530612244,
+                "imageUri": "images/image_12.jpg",
+                "uri": "audio/SKYL1NK_-_The_Wizard_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_12song_3",
+                "name": "Shine",
+                "year": null,
+                "artist": "Spektrem",
+                "album": null,
+                "duration_s": 230.63510204081632,
+                "imageUri": "images/image_12.jpg",
+                "uri": "audio/Spektrem_-_Shine_(Gabriel_Drew_&_Bloom_Remix)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_12song_4",
+                "name": "Shine",
+                "year": null,
+                "artist": "Spektrem",
+                "album": null,
+                "duration_s": 259.63102040816324,
+                "imageUri": "images/image_12.jpg",
+                "uri": "audio/Spektrem_-_Shine_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_12song_5",
+                "name": "Speo - Make A Stand (feat. Budobo) [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 193.6457142857143,
+                "imageUri": "images/image_12.jpg",
+                "uri": "audio/Speo_-_Make_A_Stand_(feat._Budobo)_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "13",
+        "name": "Album-13",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 13",
+        "imageUri": "images/image_13.jpg",
+        "tracks": [
+            {
+                "_id": "album_13song_0",
+                "name": "Hammaz-Cut The Check (Outro)",
+                "year": null,
+                "artist": "P Cutta",
+                "album": null,
+                "duration_s": 263.54938775510203,
+                "imageUri": "images/image_13.jpg",
+                "uri": "audio/Spitfya_x_Desembra_-_Cut_The_Check_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_13song_1",
+                "name": "Buzz",
+                "year": null,
+                "artist": "The Lord High Fixers",
+                "album": null,
+                "duration_s": 242.625306122449,
+                "imageUri": "images/image_13.jpg",
+                "uri": "audio/Sub.Sound_-_Feel_The_Buzz_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_13song_2",
+                "name": "Atlas",
+                "year": null,
+                "artist": "Subtact",
+                "album": null,
+                "duration_s": 234.63183673469388,
+                "imageUri": "images/image_13.jpg",
+                "uri": "audio/Subtact_-_Away_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_13song_3",
+                "name": "Shallow",
+                "year": null,
+                "artist": "Shinola",
+                "album": null,
+                "duration_s": 226.56,
+                "imageUri": "images/image_13.jpg",
+                "uri": "audio/Syntact_-_Shallow_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_13song_4",
+                "name": "Feel Good",
+                "year": null,
+                "artist": "Syn Cole",
+                "album": null,
+                "duration_s": 182.59591836734694,
+                "imageUri": "images/image_13.jpg",
+                "uri": "audio/Syn_Cole_-_Feel_Good_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_13song_5",
+                "name": "Can You Feel It",
+                "year": null,
+                "artist": "Cindy & Roy",
+                "album": null,
+                "duration_s": 211.61795918367346,
+                "imageUri": "images/image_13.jpg",
+                "uri": "audio/T-Mass_&_Enthic_-_Can_You_Feel_It_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "14",
+        "name": "Album-14",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 14",
+        "imageUri": "images/image_14.jpg",
+        "tracks": [
+            {
+                "_id": "album_14song_0",
+                "name": "T-Mass & Jaxxtone - Gave To Me [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 211.97167800453514,
+                "imageUri": "images/image_14.jpg",
+                "uri": "audio/T-Mass_&_Jaxxtone_-_Gave_To_Me_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_14song_1",
+                "name": "Bow and Arrow Dance",
+                "year": null,
+                "artist": "[unknown]",
+                "album": null,
+                "duration_s": 166.96269841269842,
+                "imageUri": "images/image_14.jpg",
+                "uri": "audio/T-Mass_-_Bow_and_Arrow_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_14song_2",
+                "name": "T-Mass - Up In Flumes [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 208.64,
+                "imageUri": "images/image_14.jpg",
+                "uri": "audio/T-Mass_-_Up_In_Flumes_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_14song_3",
+                "name": "Tetrix Bass Feat. Veela - The Light [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 186.61877551020407,
+                "imageUri": "images/image_14.jpg",
+                "uri": "audio/Tetrix_Bass_Feat._Veela_-_The_Light_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_14song_4",
+                "name": "Chasing Ghosts",
+                "year": null,
+                "artist": "The Eden Project",
+                "album": null,
+                "duration_s": 268.64326530612243,
+                "imageUri": "images/image_14.jpg",
+                "uri": "audio/The_Eden_Project_-_Chasing_Ghosts_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_14song_5",
+                "name": "The Eden Project - Lost [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 283.6375510204082,
+                "imageUri": "images/image_14.jpg",
+                "uri": "audio/The_Eden_Project_-_Lost_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "15",
+        "name": "Album-15",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 15",
+        "imageUri": "images/image_15.jpg",
+        "tracks": [
+            {
+                "_id": "album_15song_0",
+                "name": "Void",
+                "year": null,
+                "artist": "Captives of the Void",
+                "album": null,
+                "duration_s": 266.6318367346939,
+                "imageUri": "images/image_15.jpg",
+                "uri": "audio/The_Void_-_Lost_Language_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_15song_1",
+                "name": "Sunburst",
+                "year": null,
+                "artist": "Tobu & Itro",
+                "album": null,
+                "duration_s": 190.61551020408163,
+                "imageUri": "images/image_15.jpg",
+                "uri": "audio/Tobu_&_Itro_-_Sunburst_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_15song_2",
+                "name": "Tobu & Marcus Mouya - Running Away [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 187.61142857142858,
+                "imageUri": "images/image_15.jpg",
+                "uri": "audio/Tobu_&_Marcus_Mouya_-_Running_Away_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_15song_3",
+                "name": "Dusk",
+                "year": null,
+                "artist": "Tobu & Syndec",
+                "album": null,
+                "duration_s": 225.61959183673468,
+                "imageUri": "images/image_15.jpg",
+                "uri": "audio/Tobu_&_Syndec_-_Dusk_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_15song_4",
+                "name": "Candyland",
+                "year": null,
+                "artist": "Tobu",
+                "album": null,
+                "duration_s": 198.63510204081632,
+                "imageUri": "images/image_15.jpg",
+                "uri": "audio/Tobu_-_Candyland_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_15song_5",
+                "name": "Colors",
+                "year": null,
+                "artist": "Tobu",
+                "album": null,
+                "duration_s": 254.61551020408163,
+                "imageUri": "images/image_15.jpg",
+                "uri": "audio/Tobu_-_Colors_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "16",
+        "name": "Album-16",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 16",
+        "imageUri": "images/image_16.jpg",
+        "tracks": [
+            {
+                "_id": "album_16song_0",
+                "name": "Good Times",
+                "year": null,
+                "artist": "Tobu",
+                "album": null,
+                "duration_s": 197.61632653061224,
+                "imageUri": "images/image_16.jpg",
+                "uri": "audio/Tobu_-_Good_Times_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_16song_1",
+                "name": "Hope",
+                "year": null,
+                "artist": "Tobu",
+                "album": null,
+                "duration_s": 285.64897959183673,
+                "imageUri": "images/image_16.jpg",
+                "uri": "audio/Tobu_-_Hope_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_16song_2",
+                "name": "Infectious",
+                "year": null,
+                "artist": "Tobu",
+                "album": null,
+                "duration_s": 256.6269387755102,
+                "imageUri": "images/image_16.jpg",
+                "uri": "audio/Tobu_-_Infectious_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_16song_3",
+                "name": "Life",
+                "year": null,
+                "artist": "Tobu",
+                "album": null,
+                "duration_s": 183.61469387755102,
+                "imageUri": "images/image_16.jpg",
+                "uri": "audio/Tobu_-_Life_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_16song_4",
+                "name": "Mesmerize",
+                "year": null,
+                "artist": "Tobu",
+                "album": null,
+                "duration_s": 256.6269387755102,
+                "imageUri": "images/image_16.jpg",
+                "uri": "audio/Tobu_-_Mesmerize_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_16song_5",
+                "name": "Roots",
+                "year": null,
+                "artist": "Tobu",
+                "album": null,
+                "duration_s": 190.58938775510205,
+                "imageUri": "images/image_16.jpg",
+                "uri": "audio/Tobu_-_Roots_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "17",
+        "name": "Album-17",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 17",
+        "imageUri": "images/image_17.jpg",
+        "tracks": [
+            {
+                "_id": "album_17song_0",
+                "name": "Seven",
+                "year": null,
+                "artist": "Tobu",
+                "album": null,
+                "duration_s": 233.6130612244898,
+                "imageUri": "images/image_17.jpg",
+                "uri": "audio/Tobu_-_Seven_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_17song_1",
+                "name": "Goodbye",
+                "year": null,
+                "artist": "The Age of Sound",
+                "album": null,
+                "duration_s": 187.61142857142858,
+                "imageUri": "images/image_17.jpg",
+                "uri": "audio/Tobu_-_Sound_of_Goodbye_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_17song_2",
+                "name": "T & Sugah - Cast Away ft. Ayve [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 265.6391836734694,
+                "imageUri": "images/image_17.jpg",
+                "uri": "audio/T_&_Sugah_-_Cast_Away_ft._Ayve_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_17song_3",
+                "name": "T & Sugah - Sleepless (feat. MVE) [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 269.963514739229,
+                "imageUri": "images/image_17.jpg",
+                "uri": "audio/T_&_Sugah_-_Sleepless_(feat._MVE)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_17song_4",
+                "name": "Stardust",
+                "year": null,
+                "artist": "T & Sugah & NCT",
+                "album": null,
+                "duration_s": 301.55755102040814,
+                "imageUri": "images/image_17.jpg",
+                "uri": "audio/T_&_Sugah_x_NCT_-_Stardust_(feat._Miyoki)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_17song_5",
+                "name": "Collins Ave",
+                "year": null,
+                "artist": "DJ Icey",
+                "album": null,
+                "duration_s": 216.6334693877551,
+                "imageUri": "images/image_17.jpg",
+                "uri": "audio/Umpire_-_Collins_Ave._[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "18",
+        "name": "Album-18",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 18",
+        "imageUri": "images/image_18.jpg",
+        "tracks": [
+            {
+                "_id": "album_18song_0",
+                "name": "Streamers",
+                "year": null,
+                "artist": "Umpire",
+                "album": null,
+                "duration_s": 227.63102040816327,
+                "imageUri": "images/image_18.jpg",
+                "uri": "audio/Umpire_-_Gravity_(feat._Liz_Kretschmer)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_18song_1",
+                "name": "Aperture",
+                "year": null,
+                "artist": "Extol",
+                "album": null,
+                "duration_s": 185.6,
+                "imageUri": "images/image_18.jpg",
+                "uri": "audio/Unison_-_Aperture_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_18song_2",
+                "name": "Unison",
+                "year": null,
+                "artist": "Aka Moon",
+                "album": null,
+                "duration_s": 184.60734693877552,
+                "imageUri": "images/image_18.jpg",
+                "uri": "audio/Unison_-_Reality_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_18song_3",
+                "name": "Translucent",
+                "year": null,
+                "artist": "Url",
+                "album": null,
+                "duration_s": 232.5681632653061,
+                "imageUri": "images/image_18.jpg",
+                "uri": "audio/Unison_-_Translucent_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_18song_4",
+                "name": "Sweet Inspiration / [unknown] (part of \u201cYour Face or Your Kneecaps\u201d DJ-mix)",
+                "year": null,
+                "artist": "King Curtis",
+                "album": null,
+                "duration_s": 181.95698412698414,
+                "imageUri": "images/image_18.jpg",
+                "uri": "audio/Unknown_Brain_-_Inspiration_(feat._Aviella)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_18song_5",
+                "name": "Unknown Brain - Perseus (feat. Chris Linton) [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 180.61061224489796,
+                "imageUri": "images/image_18.jpg",
+                "uri": "audio/Unknown_Brain_-_Perseus_(feat._Chris_Linton)_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "19",
+        "name": "Album-19",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 19",
+        "imageUri": "images/image_19.jpg",
+        "tracks": [
+            {
+                "_id": "album_19song_0",
+                "name": "Unknown Brain - Saviour (feat. Chris Linton) [NCS Official Video]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 174.83755102040817,
+                "imageUri": "images/image_19.jpg",
+                "uri": "audio/Unknown_Brain_-_Saviour_(feat._Chris_Linton)_[NCS_Official_Video].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_19song_1",
+                "name": "Unknown Brain - Saviour (feat. Chris Linton) [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 161.5673469387755,
+                "imageUri": "images/image_19.jpg",
+                "uri": "audio/Unknown_Brain_-_Saviour_(feat._Chris_Linton)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_19song_2",
+                "name": "Unknown Brain - Superhero (feat. Chris Linton) [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 182.56979591836733,
+                "imageUri": "images/image_19.jpg",
+                "uri": "audio/Unknown_Brain_-_Superhero_(feat._Chris_Linton)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_19song_3",
+                "name": "Uplink & Jason Gewalt - Euphoria [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 213.62938775510204,
+                "imageUri": "images/image_19.jpg",
+                "uri": "audio/Uplink_&_Jason_Gewalt_-_Euphoria_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_19song_4",
+                "name": "Crying Over You",
+                "year": null,
+                "artist": "The Ventilators",
+                "album": null,
+                "duration_s": 196.57142857142858,
+                "imageUri": "images/image_19.jpg",
+                "uri": "audio/Uplink_-_Crying_Over_You_[NCS_Release]_-_YouTube.ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_19song_5",
+                "name": "Uplink - Still Need You (feat. AWR) [NCS Release] - YouTube",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 185.5477551020408,
+                "imageUri": "images/image_19.jpg",
+                "uri": "audio/Uplink_-_Still_Need_You_(feat._AWR)_[NCS_Release]_-_YouTube.ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "20",
+        "name": "Album-20",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 20",
+        "imageUri": "images/image_20.jpg",
+        "tracks": [
+            {
+                "_id": "album_20song_0",
+                "name": "Uplink - To Myself (feat. NK) [NCS Release]   Official Video",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 206.83755102040817,
+                "imageUri": "images/image_20.jpg",
+                "uri": "audio/Uplink_-_To_Myself_(feat._NK)_[NCS_Release]___Official_Video.ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_20song_1",
+                "name": "A New Light",
+                "year": null,
+                "artist": "Razed",
+                "album": null,
+                "duration_s": 167.54938775510203,
+                "imageUri": "images/image_20.jpg",
+                "uri": "audio/Valcos_-_A_New_Light_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_20song_2",
+                "name": "Valence",
+                "year": null,
+                "artist": "Miriodor",
+                "album": null,
+                "duration_s": 203.5722448979592,
+                "imageUri": "images/image_20.jpg",
+                "uri": "audio/Valence_-_Infinite_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_20song_3",
+                "name": "Vanze & Reunify - Angel (feat. Parker Polhill & Bibiane Z) [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 256.574693877551,
+                "imageUri": "images/image_20.jpg",
+                "uri": "audio/Vanze_&_Reunify_-_Angel_(feat._Parker_Polhill_&_Bibiane_Z)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_20song_4",
+                "name": "Forever",
+                "year": null,
+                "artist": "Y\u00fcth Forever",
+                "album": null,
+                "duration_s": 252.60408163265305,
+                "imageUri": "images/image_20.jpg",
+                "uri": "audio/Vanze_-_Forever_(feat._Brenton_Mattheus)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_20song_5",
+                "name": "Vanze - Survive (feat. Neon Dreams) [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 266.5795918367347,
+                "imageUri": "images/image_20.jpg",
+                "uri": "audio/Vanze_-_Survive_(feat._Neon_Dreams)_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "21",
+        "name": "Album-21",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 21",
+        "imageUri": "images/image_21.jpg",
+        "tracks": [
+            {
+                "_id": "album_21song_0",
+                "name": "Vanze x Balco x Fransis Derelle - All I Need (feat. Brenton Mattheus) [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 217.57387755102042,
+                "imageUri": "images/image_21.jpg",
+                "uri": "audio/Vanze_x_Balco_x_Fransis_Derelle_-_All_I_Need_(feat._Brenton_Mattheus)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_21song_1",
+                "name": "Vena Cava & Project Veresen feat. Raya - Flames [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 310.6481632653061,
+                "imageUri": "images/image_21.jpg",
+                "uri": "audio/Vena_Cava_&_Project_Veresen_feat._Raya_-_Flames_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_21song_2",
+                "name": "Vena Cava",
+                "year": null,
+                "artist": "Eastern Lane",
+                "album": null,
+                "duration_s": 237.63591836734693,
+                "imageUri": "images/image_21.jpg",
+                "uri": "audio/Vena_Cava_-_Handsonic_(feat._Jordan_Virelli)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_21song_3",
+                "name": "Vena Cava",
+                "year": null,
+                "artist": "Fango",
+                "album": null,
+                "duration_s": 274.5208163265306,
+                "imageUri": "images/image_21.jpg",
+                "uri": "audio/Vena_Cava_-_Noire_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_21song_4",
+                "name": "Vena Cava",
+                "year": null,
+                "artist": "Fango",
+                "album": null,
+                "duration_s": 261.61632653061224,
+                "imageUri": "images/image_21.jpg",
+                "uri": "audio/Vena_Cava_-_TOHKA_(feat._Raya)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_21song_5",
+                "name": "Venemy & Aznar ft. Doubletake - Reign [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 243.61795918367346,
+                "imageUri": "images/image_21.jpg",
+                "uri": "audio/Venemy_&_Aznar_ft._Doubletake_-_Reign_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "22",
+        "name": "Album-22",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 22",
+        "imageUri": "images/image_22.jpg",
+        "tracks": [
+            {
+                "_id": "album_22song_0",
+                "name": "Venemy - Need You Now (feat. Danica) [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 186.64489795918368,
+                "imageUri": "images/image_22.jpg",
+                "uri": "audio/Venemy_-_Need_You_Now_(feat._Danica)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_22song_1",
+                "name": "Rescue Me",
+                "year": null,
+                "artist": "Zynic",
+                "album": null,
+                "duration_s": 212.61061224489796,
+                "imageUri": "images/image_22.jpg",
+                "uri": "audio/Venemy_-_Rescue_Me_(feat._Car)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_22song_2",
+                "name": "Venemy Ft. Emily Jane - Heartbeat [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 248.6334693877551,
+                "imageUri": "images/image_22.jpg",
+                "uri": "audio/Venemy_Ft._Emily_Jane_-_Heartbeat_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_22song_3",
+                "name": "Explode",
+                "year": null,
+                "artist": "Jordan & Baker",
+                "album": null,
+                "duration_s": 273.6326530612245,
+                "imageUri": "images/image_22.jpg",
+                "uri": "audio/Verm_-_Explode_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_22song_4",
+                "name": "Masked Heroes",
+                "year": null,
+                "artist": "Vexento",
+                "album": null,
+                "duration_s": 282.5926530612245,
+                "imageUri": "images/image_22.jpg",
+                "uri": "audio/Vexento_-_Masked_Raver_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_22song_5",
+                "name": "Safari Fruits",
+                "year": null,
+                "artist": "Vidya Vidya",
+                "album": null,
+                "duration_s": 226.56,
+                "imageUri": "images/image_22.jpg",
+                "uri": "audio/Vidya_Vidya_-_Safari_Fruits_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "23",
+        "name": "Album-23",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 23",
+        "imageUri": "images/image_23.jpg",
+        "tracks": [
+            {
+                "_id": "album_23song_0",
+                "name": "Empire",
+                "year": null,
+                "artist": "Voicians",
+                "album": null,
+                "duration_s": 213.62938775510204,
+                "imageUri": "images/image_23.jpg",
+                "uri": "audio/Voicians_-_Seconds_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_23song_1",
+                "name": "Last Summer",
+                "year": null,
+                "artist": "Summer Vacation",
+                "album": null,
+                "duration_s": 208.64,
+                "imageUri": "images/image_23.jpg",
+                "uri": "audio/Warptech_-_Last_Summer_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_23song_2",
+                "name": "Warptech feat. Cory Friesenhan - In The Stories [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 241.6326530612245,
+                "imageUri": "images/image_23.jpg",
+                "uri": "audio/Warptech_feat._Cory_Friesenhan_-_In_The_Stories_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_23song_3",
+                "name": "Warptech ft. Cory Friesenhan - Resolution [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 237.63591836734693,
+                "imageUri": "images/image_23.jpg",
+                "uri": "audio/Warptech_ft._Cory_Friesenhan_-_Resolution_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_23song_4",
+                "name": "Warriyo - Mortals (feat. Laura Brehm) [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 230.55673469387756,
+                "imageUri": "images/image_23.jpg",
+                "uri": "audio/Warriyo_-_Mortals_(feat._Laura_Brehm)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_23song_5",
+                "name": "WATEVA - See U (feat. Johnning) [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 187.96514739229025,
+                "imageUri": "images/image_23.jpg",
+                "uri": "audio/WATEVA_-_See_U_(feat._Johnning)_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "24",
+        "name": "Album-24",
+        "year": 2022,
+        "total_tracks": 6,
+        "description": "Sample Album 24",
+        "imageUri": "images/image_24.jpg",
+        "tracks": [
+            {
+                "_id": "album_24song_0",
+                "name": "Daydream",
+                "year": null,
+                "artist": "Daydream Nation",
+                "album": null,
+                "duration_s": 265.5869387755102,
+                "imageUri": "images/image_24.jpg",
+                "uri": "audio/Waysons_-_Daydream_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_24song_1",
+                "name": "Eternal",
+                "year": null,
+                "artist": "Sieged Mind",
+                "album": null,
+                "duration_s": 282.5665306122449,
+                "imageUri": "images/image_24.jpg",
+                "uri": "audio/Waysons_-_Eternal_Minds_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_24song_2",
+                "name": "Running",
+                "year": null,
+                "artist": "Trapeze",
+                "album": null,
+                "duration_s": 187.96514739229025,
+                "imageUri": "images/image_24.jpg",
+                "uri": "audio/Waysons_-_Running_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_24song_3",
+                "name": "Adventures",
+                "year": null,
+                "artist": "William Ekh feat. Alexa Lusader",
+                "album": null,
+                "duration_s": 191.58204081632653,
+                "imageUri": "images/image_24.jpg",
+                "uri": "audio/William_Ekh_-_Adventures_(feat._Alexa_Lusader)_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_24song_4",
+                "name": "Wontolla, Kasger & Limitless - Miles Away [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 224.6269387755102,
+                "imageUri": "images/image_24.jpg",
+                "uri": "audio/Wontolla,_Kasger_&_Limitless_-_Miles_Away_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_24song_5",
+                "name": "Back",
+                "year": null,
+                "artist": "Intentions",
+                "album": null,
+                "duration_s": 273.5804081632653,
+                "imageUri": "images/image_24.jpg",
+                "uri": "audio/Y&V_-_Back_In_Time_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    },
+    {
+        "type": "album",
+        "_id": "25",
+        "name": "Album-25",
+        "year": 2022,
+        "total_tracks": 4,
+        "description": "Sample Album 25",
+        "imageUri": "images/image_25.jpg",
+        "tracks": [
+            {
+                "_id": "album_25song_0",
+                "name": "Falling",
+                "year": null,
+                "artist": "Skin",
+                "album": null,
+                "duration_s": 188.60408163265305,
+                "imageUri": "images/image_25.jpg",
+                "uri": "audio/Y&V_-_Falling_Up_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_25song_1",
+                "name": "Y&V - Lune [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 413.54448979591837,
+                "imageUri": "images/image_25.jpg",
+                "uri": "audio/Y&V_-_Lune_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_25song_2",
+                "name": "Zaza",
+                "year": null,
+                "artist": "Rex Stewart",
+                "album": null,
+                "duration_s": 214.54367346938776,
+                "imageUri": "images/image_25.jpg",
+                "uri": "audio/Zaza_-_Be_Together_[NCS_Release].ogg",
+                "type": "track"
+            },
+            {
+                "_id": "album_25song_3",
+                "name": "ZEST - You. & Me [NCS Release]",
+                "year": null,
+                "artist": null,
+                "album": null,
+                "duration_s": 241.6326530612245,
+                "imageUri": "images/image_25.jpg",
+                "uri": "audio/ZEST_-_You._&_Me_[NCS_Release].ogg",
+                "type": "track"
+            }
+        ]
+    }
+]
