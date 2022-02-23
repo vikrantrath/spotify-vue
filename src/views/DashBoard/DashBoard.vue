@@ -22,11 +22,7 @@ const sections = $computed(() => chunk(playListStore.getPlayLists, 6))
 
 <style>
 .home-view {
-  padding: 2rem;
-  overflow-y: scroll;
-  height: calc(100vh - 100px);
-  display: flex;
-  flex-direction: column;
   grid-row-gap: 3rem;
+  padding: 2rem;
 }
 </style>

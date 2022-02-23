@@ -19,8 +19,19 @@
                 <h5>{{ album.tracks.length }} in List</h5>
             </div>
         </div>
-        <div>
-            like
+        <div class="action-bar">
+            <div class="favorite-icon-container">
+                <span
+                    :class="`material-icons ${userPrefStore.isLikedAlbum(album) ? 'selected' : 'unselected'}`"
+                    @click="userPrefStore.toggleLikedAlbum(album)"
+                    data-testid="favorite"
+                >favorite</span>
+            </div>
+            <div class="play-icon" @click="playCurrentAlbum">
+                <div class="play-icon-circle">
+                    <span class="material-icons">play_arrow</span>
+                </div>
+            </div>
         </div>
         <div class="playlist">
             <table>
@@ -57,10 +68,20 @@
 <script lang="ts" setup>
 import { Album } from '@/@types';
 import router from '@/router/router';
+import { useNowPlayingStore } from '@/stores/nowPlaying';
+import { useUserPrefStore } from '@/stores/userPref';
 
 const { album } = defineProps<{ album: Album }>()
 
 const getImgUrl = (uri: string | URL) => new URL(uri, window.location.origin).href
+
+const userPrefStore = useUserPrefStore();
+const nowPlayingStore = useNowPlayingStore();
+
+const playCurrentAlbum = (event: { stopPropagation: () => void; }) => {
+    event.stopPropagation();
+    nowPlayingStore.setCurrentPlaylist(album.tracks)
+}
 </script>
   
 <style lang="scss">
@@ -111,6 +132,43 @@ const getImgUrl = (uri: string | URL) => new URL(uri, window.location.origin).hr
 
             h1 {
                 font-weight: bold;
+            }
+        }
+    }
+
+    .action-bar {
+        padding: 2rem;
+        display: flex;
+
+        .favorite-icon-container {
+            height: 50px;
+            width: 50px;
+            display: flex;
+            align-items: center;
+            .selected {
+                color: #1fdf64;
+            }
+
+            .selected,
+            .unselected {
+                cursor: pointer;
+                transform: scale(2);
+            }
+        }
+
+        .play-icon {
+            cursor: pointer;
+
+            .play-icon-circle {
+                border-radius: 50%;
+                background: #1fdf64;
+                height: 50px;
+                width: 50px;
+                span {
+                    transition: transform 0.5s ease-out;
+                    color: white;
+                    transform: translate(13px, 13px) scale(1.5);
+                }
             }
         }
     }

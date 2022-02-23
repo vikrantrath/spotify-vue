@@ -2,7 +2,7 @@
   <div class="player">
     <div class="now-playing-meta">
       <template v-if="nowPlayingStore.getCurrentPlaying">
-        <img :src="nowPlayingStore.getCurrentPlaying.imageUri" alt="now-playing-cover-art" />
+        <img :src="getUri(nowPlayingStore.getCurrentPlaying.imageUri)" alt="now-playing-cover-art" />
         <div class="now-playing-info">
           <span class="now-playing-title">{{ nowPlayingStore.getCurrentPlaying?.name }}</span>
           <span class="now-playing-artist">{{ nowPlayingStore.getCurrentPlaying?.artist }}</span>
@@ -17,7 +17,7 @@
     <div class="player-controls">
       <audio
         ref="audioRef"
-        :src="nowPlayingStore.getCurrentPlaying?.uri || '#'"
+        :src="getUri(nowPlayingStore.getCurrentPlaying?.uri)"
         preload="metadata"
         hidden
       ></audio>
@@ -108,7 +108,13 @@ const play = () => {
 };
 
 setInterval(() => {
-  state.currentPlaybackTime = audioRef?.currentTime || 0
+  if (audioRef?.duration) {
+    if (state.currentPlaybackTime >= audioRef?.duration) {
+      nowPlayingStore.next();
+    } else {
+      state.currentPlaybackTime = audioRef?.currentTime || 0;
+    }
+  }
 }, 980)
 
 watch(() => nowPlayingStore, () => {
@@ -119,6 +125,8 @@ watch(() => nowPlayingStore, () => {
 watch(() => audioRef, () => (audioRef && (audioRef.volume = userPrefStore.getVolumePref)), { flush: 'post' })
 
 const toggleFavorite = () => userPrefStore.toggleLikedSong(nowPlayingStore.getCurrentPlaying)
+
+const getUri = (uri: string | URL) => uri ? new URL(uri, window.location.origin).href : '#'
 
 </script>
 

@@ -2,7 +2,7 @@
     {
         "type": "album",
         "_id": "0",
-        "name": "Album-0",
+        "name": "Album 0",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 0",
@@ -79,7 +79,7 @@
     {
         "type": "album",
         "_id": "1",
-        "name": "Album-1",
+        "name": "Album 1",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 1",
@@ -156,7 +156,7 @@
     {
         "type": "album",
         "_id": "2",
-        "name": "Album-2",
+        "name": "Album 2",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 2",
@@ -233,7 +233,7 @@
     {
         "type": "album",
         "_id": "3",
-        "name": "Album-3",
+        "name": "Album 3",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 3",
@@ -310,7 +310,7 @@
     {
         "type": "album",
         "_id": "4",
-        "name": "Album-4",
+        "name": "Album 4",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 4",
@@ -387,7 +387,7 @@
     {
         "type": "album",
         "_id": "5",
-        "name": "Album-5",
+        "name": "Album 5",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 5",
@@ -464,7 +464,7 @@
     {
         "type": "album",
         "_id": "6",
-        "name": "Album-6",
+        "name": "Album 6",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 6",
@@ -541,7 +541,7 @@
     {
         "type": "album",
         "_id": "7",
-        "name": "Album-7",
+        "name": "Album 7",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 7",
@@ -618,7 +618,7 @@
     {
         "type": "album",
         "_id": "8",
-        "name": "Album-8",
+        "name": "Album 8",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 8",
@@ -695,7 +695,7 @@
     {
         "type": "album",
         "_id": "9",
-        "name": "Album-9",
+        "name": "Album 9",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 9",
@@ -772,7 +772,7 @@
     {
         "type": "album",
         "_id": "10",
-        "name": "Album-10",
+        "name": "Album 10",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 10",
@@ -849,7 +849,7 @@
     {
         "type": "album",
         "_id": "11",
-        "name": "Album-11",
+        "name": "Album 11",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 11",
@@ -926,7 +926,7 @@
     {
         "type": "album",
         "_id": "12",
-        "name": "Album-12",
+        "name": "Album 12",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 12",
@@ -1003,7 +1003,7 @@
     {
         "type": "album",
         "_id": "13",
-        "name": "Album-13",
+        "name": "Album 13",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 13",
@@ -1080,7 +1080,7 @@
     {
         "type": "album",
         "_id": "14",
-        "name": "Album-14",
+        "name": "Album 14",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 14",
@@ -1157,7 +1157,7 @@
     {
         "type": "album",
         "_id": "15",
-        "name": "Album-15",
+        "name": "Album 15",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 15",
@@ -1234,7 +1234,7 @@
     {
         "type": "album",
         "_id": "16",
-        "name": "Album-16",
+        "name": "Album 16",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 16",
@@ -1311,7 +1311,7 @@
     {
         "type": "album",
         "_id": "17",
-        "name": "Album-17",
+        "name": "Album 17",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 17",
@@ -1388,7 +1388,7 @@
     {
         "type": "album",
         "_id": "18",
-        "name": "Album-18",
+        "name": "Album 18",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 18",
@@ -1465,7 +1465,7 @@
     {
         "type": "album",
         "_id": "19",
-        "name": "Album-19",
+        "name": "Album 19",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 19",
@@ -1542,7 +1542,7 @@
     {
         "type": "album",
         "_id": "20",
-        "name": "Album-20",
+        "name": "Album 20",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 20",
@@ -1619,7 +1619,7 @@
     {
         "type": "album",
         "_id": "21",
-        "name": "Album-21",
+        "name": "Album 21",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 21",
@@ -1696,7 +1696,7 @@
     {
         "type": "album",
         "_id": "22",
-        "name": "Album-22",
+        "name": "Album 22",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 22",
@@ -1773,7 +1773,7 @@
     {
         "type": "album",
         "_id": "23",
-        "name": "Album-23",
+        "name": "Album 23",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 23",
@@ -1850,7 +1850,7 @@
     {
         "type": "album",
         "_id": "24",
-        "name": "Album-24",
+        "name": "Album 24",
         "year": 2022,
         "total_tracks": 6,
         "description": "Sample Album 24",
@@ -1927,7 +1927,7 @@
     {
         "type": "album",
         "_id": "25",
-        "name": "Album-25",
+        "name": "Album 25",
         "year": 2022,
         "total_tracks": 4,
         "description": "Sample Album 25",

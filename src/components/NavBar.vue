@@ -10,7 +10,7 @@
         <span class="material-icons">home</span>
         <span>Home</span>
       </router-link>
-      <router-link to="/">
+      <router-link to="/library">
         <span class="material-icons">library_music</span>
         <span>Library</span>
       </router-link>

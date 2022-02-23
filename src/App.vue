@@ -37,6 +37,8 @@ onMounted(() => usePlayListStore().loadPlayLists());
   display: flex;
   grid-area: main-view;
   flex: 6;
+  overflow-y: scroll;
+  height: calc(100vh - 100px);
   flex-direction: column;
 }
 </style>
