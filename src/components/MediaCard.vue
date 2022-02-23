@@ -1,6 +1,8 @@
 <template>
-  <div class="media-card">
-    <img :src="album.imageUri" alt="cover-art" />
+  <div class="media-card" @click="goto(album._id)">
+    <div class="img-overlay">
+      <img :src="album.imageUri" alt="cover-art" />
+    </div>
     <div class="play-icon" @click="playCurrentAlbum">
       <div class="play-icon-circle">
         <span class="material-icons">play_arrow</span>
@@ -14,13 +16,17 @@
 <script lang="ts" setup>
 import { Album } from '@/@types';
 import { useNowPlayingStore } from '@/stores/nowPlaying';
+import Router from '@/router/router'
 
 const nowPlayingStore = useNowPlayingStore();
 const { album } = defineProps<{ album: Album }>();
 
-const playCurrentAlbum = () => {
+const playCurrentAlbum = (event: { stopPropagation: () => void; }) => {
+  event.stopPropagation();
   nowPlayingStore.setCurrentPlaylist(album.tracks)
 }
+
+const goto = (_id: string) => Router.push(`/album/${_id}`);
 </script>
 
 <style lang="scss">
@@ -34,6 +40,15 @@ const playCurrentAlbum = () => {
   padding: 1rem;
   align-items: flex-start;
   transition: all 0.5s ease;
+  z-index: 1;
+
+  .img-overlay {
+    background-color: rgba(0, 0, 0, 0.3);
+    opacity: 0.9;
+    height: 150px;
+    width: 100%;
+    border-radius: 5px;
+  }
 
   img {
     height: 150px;
@@ -63,6 +78,7 @@ const playCurrentAlbum = () => {
     opacity: 0;
     cursor: pointer;
     transition: visibility 0.5s ease, opacity 0.5s ease-in-out;
+    z-index: 4;
 
     .play-icon-circle {
       border-radius: 50%;

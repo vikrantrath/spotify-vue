@@ -81,7 +81,7 @@ import Logo from "@/assets/logo.svg";
 
     span {
       color: var(--color-heading);
-      font-size: 2rem;
+      font-size: 1.5rem;
       padding-left: 0.5rem;
       letter-spacing: -2px;
     }

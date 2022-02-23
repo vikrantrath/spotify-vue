@@ -1,0 +1,12 @@
+{
+    "integrationFolder": "./e2e",
+    "screenshotOnRunFailure": false,
+    "video": false,
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir": "coverage/e2e",
+        "overwrite": false,
+        "html": true,
+        "json": false
+    }
+}

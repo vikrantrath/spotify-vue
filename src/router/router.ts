@@ -4,6 +4,8 @@ import { createRouter, createWebHistory } from "vue-router";
 export const routes = [
     { path: '', component: DashBoard },
     { path: '/favourite', component: () => import("@/views/Favourite/Favourite.vue") },
+    { path: '/album/:_id', component: () => import("@/views/Album/Album.vue") },
+
 ]
 
 const router = createRouter({

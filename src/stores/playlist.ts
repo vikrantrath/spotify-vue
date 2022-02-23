@@ -2,7 +2,7 @@ import { PlayList } from '@/@types';
 import { getAllPlayLists } from '@/services/playListService';
 import { defineStore } from 'pinia';
 
-const usePlayListStore = defineStore({
+export const usePlayListStore = defineStore({
     id: 'playlists',
     state: () => ({
         playlists: ([] as PlayList),
